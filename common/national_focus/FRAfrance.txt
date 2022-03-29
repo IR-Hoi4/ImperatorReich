@@ -1,0 +1,12 @@
+focus_tree = {
+	id = FRA_focus
+
+	country = {
+		factor = 0
+		modifier = {
+			tag = FRA
+			add = 20
+		}
+	    } 
+	continuous_focus_position = { x = 20 y = 1200 }
+}
